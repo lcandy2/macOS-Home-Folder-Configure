@@ -1,0 +1,4 @@
+# This is for the husky pre-commit hook use in Fork.app, see issue below.
+# https://github.com/fork-dev/Tracker/issues/311#issuecomment-1479474577
+eval "$(fnm env)"
+fnm use default
